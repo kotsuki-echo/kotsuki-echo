@@ -1,19 +1,27 @@
 # Tsú-Kî (kotsuki)
 
-<!-- $ boot kotsuki.dev -->
+<!--
+$ boot kotsuki.dev
+[ OK ] loading curiosity
+[ OK ] loading AI tools
+[ OK ] CLI utilities
+[ OK ] echo subsystem initialized
+-->
 
 ```text
 
- _  _  ___ _____ ____ _   _ _  _ _ 
-| |/ // _ |_   _/ ___| | | | |/ | |
-| ' <| (_) || | \___ \ |_| | ' <| |
-|_|\_\\___/ |_| |____/\___/|_|\_\_|
-
-booting kotsuki.dev ...
-[ OK ] loading curiosity
-[ OK ] loading AI tools
-[ OK ] loading CLI utilities
-[ OK ] echo subsystem ready
++-----------------------------------------+
+|    _  _  ___ _____ ____ _   _ _  _ _    |
+|   | |/ // _ |_   _/ ___| | | | |/ | |   |
+|   | ' <| (_) || | \___ \ |_| | ' <| |   |
+|   |_|\_\\___/ |_| |____/\___/|_|\_\_|   |
+|                                         |
+|   booting kotsuki.dev ...               |
+|   [ OK ] loading curiosity              |
+|   [ OK ] loading AI tools               |
+|   [ OK ] echo subsystem ready           |
+|                                         |
++-----------------------------------------+
 
 $ whoami
 Tsú-Kî (kotsuki)
@@ -30,11 +38,6 @@ CLI utilities
 $ echo $CURRENT_PROJECT
 AI Gmail Organizer
 ```
-
-echo ideas | build tools | explore AI
-
-Developer exploring AI tools, automation, and small utilities.
-I enjoy building things that turn ideas into code.
 
 ## Currently working on:
 - AI Gmail Organizer — organizing Gmail archives with LLM tools

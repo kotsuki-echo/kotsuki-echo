@@ -1,10 +1,16 @@
 # Tsú-Kî (kotsuki)
 
 ```text
+$ boot kotsuki.dev
+<!--
+ASCII logo
 booting kotsuki.dev ...
-loading modules ...
-initializing AI tools ...
-system ready.
+-->
+[ OK ] loading curiosity
+[ OK ] loading AI tools
+[ OK ] loading CLI utilities
+[ OK ] echo subsystem initialized
+welcome, traveler.
 
 $ whoami
 Tsú-Kî (kotsuki)

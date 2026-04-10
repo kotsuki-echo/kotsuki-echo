@@ -1,17 +1,19 @@
 # Tsú-Kî (kotsuki)
 
-<!--
-ASCII logo
-booting kotsuki.dev ...
--->
+<!-- $ boot kotsuki.dev -->
 
 ```text
-$ boot kotsuki.dev
+
+ _  _  ___ _____ ____ _   _ _  _ _ 
+| |/ // _ |_   _/ ___| | | | |/ | |
+| ' <| (_) || | \___ \ |_| | ' <| |
+|_|\_\\___/ |_| |____/\___/|_|\_\_|
+
+booting kotsuki.dev ...
 [ OK ] loading curiosity
 [ OK ] loading AI tools
 [ OK ] loading CLI utilities
-[ OK ] echo subsystem initialized
-welcome, traveler.
+[ OK ] echo subsystem ready
 
 $ whoami
 Tsú-Kî (kotsuki)

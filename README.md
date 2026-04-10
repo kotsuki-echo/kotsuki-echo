@@ -1,4 +1,4 @@
-# Ko Tsú-Kî (kotsuki)
+# Tsú-Kî (kotsuki)
 
 <!--
 $ boot kotsuki.dev

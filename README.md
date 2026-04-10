@@ -1,6 +1,11 @@
 # Tsú-Kî (kotsuki)
 
-```bash
+```text
+booting kotsuki.dev ...
+loading modules ...
+initializing AI tools ...
+system ready.
+
 $ whoami
 Tsú-Kî (kotsuki)
 
@@ -9,15 +14,16 @@ build tools | explore AI
 
 $ echo $INTERESTS
 AI tools
-CLI utilities
 automation
 open source experiments
+CLI utilities
 
 $ echo $CURRENT_PROJECT
 AI Gmail Organizer
 ```
 
 echo ideas | build tools | explore AI
+
 Developer exploring AI tools, automation, and small utilities.
 I enjoy building things that turn ideas into code.
 

@@ -1,11 +1,12 @@
 # Tsú-Kî (kotsuki)
 
-```text
-$ boot kotsuki.dev
 <!--
 ASCII logo
 booting kotsuki.dev ...
 -->
+
+```text
+$ boot kotsuki.dev
 [ OK ] loading curiosity
 [ OK ] loading AI tools
 [ OK ] loading CLI utilities
